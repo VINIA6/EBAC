@@ -56,6 +56,9 @@
 ## Day 03
 <p>Devido ao ambiente colaborativo que estamos usando ser de forma gratuita, existe uma certa limitação, a limitação que tivemos foi a de que o cluster é incerrado no prazo de duas horas, após isso devemos criar um novo cluster para trabalhar. Desta vez ao criar os clusters não utilizamos a interface do Databricks, utilizamos a criação dos clusters por meio de cósigo fonte em python que a própria ferramenta nos disponibiliza.</p>
 <p>Após toda a preparação da estrutura de dados feitas no Day 02, podemos começar a analisar mais profundamente estes dados, para trabalhar com pesquisas e análises tivemos um desafio, </p>
+<img src="https://github.com/VINIA6/EBAC/blob/master/img/des_ana.png?raw=true" height="300" title="img"/>
+<p>Tando fazer pesquisas com a linguagem python na tabela de vendas, consultando o "Total de clientes", "Valor total vendido", "Categorias", "SubCategorias", "Produtos", "Cidades" e com SQL puro na tabela potencial consultando o "Total de clientes", "Valor total vendido", "Residencial", "Hibrida","Comercial", "Industrial" e o "Período" podemos ver todos os códigos utilizados neste <a href="https://github.com/VINIA6/EBAC/blob/master/Notebooks_Origin/EBAC%20-%20Parte%2003.sql">Notebook</a>.</p>
+<img src="https://github.com/VINIA6/EBAC/blob/master/img/des_ana.png?raw=true" height="300" title="img"/>
 ##### Atividade realizadas: 
 
 1.  Clonando cluster e recriando tabelas finais. (Recriar tabelas usando Python)
