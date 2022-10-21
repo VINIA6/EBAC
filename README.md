@@ -42,7 +42,7 @@
 
 ## Day 02
 
-<p>Utilizar o Databriks com certeza foi uma surpresa, um ambiente colaborativo ágil e performático. Logo após toda a preparação do ambiente de dados, importação de CSV's, contrução dos cluster's por meio da interface do Databricks e criação de tabelas por meio de SQL, fizemos uma primeira análise exploratória, removendo dados nulos, organizando dados através da regra de negócio e validando os dados. segue o link do <a href="https://github.com/VINIA6/EBAC/blob/master/Notebooks_Origin/EBAC%20-%20Parte%2002.sql">Notebook</a>:</p>
+<p>Utilizar o Databriks com certeza foi uma surpresa, um ambiente colaborativo ágil e performático. Logo após toda a preparação do ambiente de dados, importação de CSV's, contrução dos cluster's por meio da interface do Databricks e criação de tabelas por meio de SQL, fizemos uma primeira análise exploratória, removendo dados nulos, organizando dados através da regra de negócio e os validando. segue o link do <a href="https://github.com/VINIA6/EBAC/blob/master/Notebooks_Origin/EBAC%20-%20Parte%2002.sql">Notebook</a>:</p>
 
 ##### Atividade realizadas: 
 
@@ -56,12 +56,16 @@
 ## Day 03
 <p>Devido ao ambiente colaborativo que estamos usando ser de forma gratuita, existe uma certa limitação, a limitação que tivemos foi a de que o cluster é incerrado no prazo de duas horas, após isso devemos criar um novo cluster para trabalhar. Desta vez ao criar os clusters não utilizamos a interface do Databricks, utilizamos a criação dos clusters por meio de cósigo fonte em python que a própria ferramenta nos disponibiliza.</p>
 <p>Após toda a preparação da estrutura de dados feitas no Day 02, podemos começar a analisar mais profundamente estes dados, para trabalhar com pesquisas e análises tivemos um desafio, </p>
-<img src="https://github.com/VINIA6/EBAC/blob/master/img/des_ana.png?raw=true" height="300" title="img"/>
-<p>Tando fazer pesquisas com a linguagem python na tabela de vendas, consultando o "Total de clientes", "Valor total vendido", "Categorias", "SubCategorias", "Produtos", "Cidades" e com SQL puro na tabela potencial consultando o "Total de clientes", "Valor total vendido", "Residencial", "Hibrida","Comercial", "Industrial" e o "Período" podemos ver todos os códigos utilizados neste <a href="https://github.com/VINIA6/EBAC/blob/master/Notebooks_Origin/EBAC%20-%20Parte%2003.sql">Notebook</a>.</p>
-<img src="https://github.com/VINIA6/EBAC/blob/master/img/des_ana.png?raw=true" height="300" title="img"/>
+<img src="https://github.com/VINIA6/EBAC/blob/master/img/des_ana.png?raw=true" height="450" title="img"/>
+<p>Tendo que fazer pesquisas com a linguagem python na tabela de vendas, consultando o "Total de clientes", "Valor total vendido", "Categorias", "SubCategorias", "Produtos", "Cidades" e com SQL puro na tabela potencial consultando o "Total de clientes", "Valor total vendido", "Residencial", "Hibrida","Comercial", "Industrial" e o "Período" podemos ver todos os códigos utilizados neste <a href="https://github.com/VINIA6/EBAC/blob/master/Notebooks_Origin/EBAC%20-%20Parte%2003.sql">Notebook</a>.</p>
+<p>Após toda a consulta temos o seguinte resultado.</p>
+<img src="https://github.com/VINIA6/EBAC/blob/master/img/des_ana2.png?raw=true" height="450" title="img"/>
+
 ##### Atividade realizadas: 
 
 1.  Clonando cluster e recriando tabelas finais. (Recriar tabelas usando Python)
 2.  Iniciar apresentação em Power Point com resumo das tabelas.
 3.  Utilizar recurso de gráfico no Databricks.
 4.  Preparar dados para serem utilizados no Microsoft SQL Server
+
+## Day 04
