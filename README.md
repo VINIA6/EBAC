@@ -81,7 +81,12 @@
 
 ## Day 05
 <p>Realizar consultas, deixar um *script* padrão pra geração de novos dados e geração de consultas importantes para identificar novas oportunidades de vendas, criamos um slide que possibiita a vizualização organizada das consultas. </p>
-<img src="https://github.com/VINIA6/EBAC/blob/master/img/des_ana2.png?raw=true" height="450" title="img"/>
+
+<img src="https://github.com/VINIA6/EBAC/blob/master/img/pag2.png?raw=true" height="450" title="img"/>
+<img src="https://github.com/VINIA6/EBAC/blob/master/img/pag3.png?raw=true" height="450" title="img"/>
+<img src="https://github.com/VINIA6/EBAC/blob/master/img/pag4.png?raw=true" height="450" title="img"/>
+<img src="https://github.com/VINIA6/EBAC/blob/master/img/pag5.png?raw=true" height="450" title="img"/>
+<img src="https://github.com/VINIA6/EBAC/blob/master/img/pag6.png?raw=true" height="450" title="img"/>
 
 ##### Atividade realizadas: 
 
@@ -91,14 +96,18 @@
 
 ## Day 06
 
+<p>Sabemos que manipular dados e setar nossas consultas s mão em um slide não e a melhor forma de se fazer uma boa análise, sempre buscamos otimizar nosso tempo e trabhar de forma mias eficiente, para isso o Power BI vem ajudar nossas análises, com gráficos consultas rápidas diretamente do banco de dados entre outras funcionalidades. Neste dia nos introduzimos ao Power BI e criamos algumas views no SQL para serem buscadas pelo Power BI. </p>
+ 
 ##### Atividade realizadas: 
 
 1. Introdução ao Power BI
 2. Instalação do Power BI
 3. Criar view no SQL.
-4. Carregar Dados para PBI
+4. Carregar Dados para Power BI
 
 ## Day 07
+
+<p>Como havia dito anteriormente, criar slides e prenchelos manualmente não é a melhor forma de se fazer, então criamos um dashboard com informações relevantes para nosso cliente, sempre buscando atender as metas para a construBem. </p>
 
 ##### Atividade realizadas: 
 
