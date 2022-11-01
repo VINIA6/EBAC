@@ -69,3 +69,42 @@
 4.  Preparar dados para serem utilizados no Microsoft SQL Server
 
 ## Day 04
+
+##### Atividade realizadas: 
+
+<p>Foi a primeira vez que trablhei com o Microsoft SQL Server e foi de grande aprendizado, semore trablhei com PostgreSQL, não são tão diferentes, já que são banco SQL alguma sintaxes mudam um pouco mas no geral são bem semelhantes, o Databricks serviu mais como uma plataforma de manipulação de BigData, após a instalação e configuração do banco SQL Server introudizimos os dados do Databricks no banco.</p>
+
+1. Utilizar Microsoft SQL server para continuar análises
+2. Instalar MSSQL – passo-a-passo. (Engine & Management Studio)
+3. Transferir dados do Databricks para MSSQL (Via Bulk Insert)
+
+
+## Day 05
+<p>Realizar consultas, deixar um *script* padrão pra geração de novos dados e geração de consultas importantes para identificar novas oportunidades de vendas, criamos um slide que possibiita a vizualização organizada das consultas. </p>
+<img src="https://github.com/VINIA6/EBAC/blob/master/img/des_ana2.png?raw=true" height="450" title="img"/>
+
+##### Atividade realizadas: 
+
+1. Criação de scripts no MSSQL.
+2. Desenvolver Rankings
+3. Identificar oportunidades de vendas.
+
+## Day 06
+
+##### Atividade realizadas: 
+
+1. Introdução ao Power BI
+2. Instalação do Power BI
+3. Criar view no SQL.
+4. Carregar Dados para PBI
+
+## Day 07
+
+##### Atividade realizadas: 
+
+1. Criar dashboard/relatório no Power BI
+2. Utilizar inteligência artificial do Power BI para obter insights sobre os dados
+3. Entender diferenças entre períodos e explicar variações dos dados.
+
+
+
